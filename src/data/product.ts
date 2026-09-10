@@ -50,7 +50,7 @@ export const products: Product[] = [
     price: 80000,
     description: "Herramientas de autoconocimiento frente a la ansiedad, el estrés, uso saludable de redes, sexualidad y orientación vocacional.",
     features: ["Uso sano de tecnologías", "Autoestima y autocompasión", "Cuadernillo de trabajo"],
-    image: "/public/programa para adolescentes.jpeg"
+    image: "/public/programa-para-adolescentes.jpeg"
   },
   {
     id: 4,
@@ -63,7 +63,7 @@ export const products: Product[] = [
     price: 85000,
     description: "Liderazgo emocional en Terapia Cognitivo Conductual (TCC) para reestructurar creencias limitantes y eliminar el autosabotaje.",
     features: ["Conciencia emocional", "Workbook terapéutico", "Sesiones grupales en vivo"],
-    image: "/lidera-tus-emociones.jpeg"
+    image: "/public/lidera-tus-emociones.jpeg"
   },
   {
     id: 5,
@@ -76,6 +76,6 @@ export const products: Product[] = [
     price: 95000,
     description: "Espacio de acompañamiento psicológico y formativo usando el método R.E.S.P.I.R.A. para priorizar sin culpa y emprender.",
     features: ["Comunidad privada de mamás", "Sesión 1:1 personalizada", "Material descargable"],
-    image: "public/mama-respira-reinventate.jpeg"
+    image: "/public/reinventate.jpeg"
   }
 ];
