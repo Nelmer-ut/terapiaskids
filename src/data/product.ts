@@ -63,7 +63,7 @@ export const products: Product[] = [
     price: 85000,
     description: "Liderazgo emocional en Terapia Cognitivo Conductual (TCC) para reestructurar creencias limitantes y eliminar el autosabotaje.",
     features: ["Conciencia emocional", "Workbook terapéutico", "Sesiones grupales en vivo"],
-    image: "/public/lidera-tus-emociones.jpeg"
+    image: "/lidera-tus-emociones.jpeg"
   },
   {
     id: 5,

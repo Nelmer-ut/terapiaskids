@@ -6,7 +6,7 @@ const Header: React.FC = () => {
     <header className="main-header">
       <div className="header-container">
         <div className="brand">
-          <img src="public/logo.jpeg" alt="TerapiasKids Logo" className="logo-img" onError={(e) => {
+          <img src="/public/logo.jpeg" alt="TerapiasKids Logo" className="logo-img" onError={(e) => {
             // Fallback si la imagen no se encuentra
             (e.target as HTMLElement).style.display = 'none';
           }} />
